@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js
+.next/
+out/
+
+# Env (never commit secrets)
+.env
+.env.*
+!.env.example
+
+# Debug / OS
+npm-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+.DS_Store
+*.pem
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Vercel
+.vercel
+
+# Prisma (optional: keep migrations committed in real projects)
+# prisma/migrations/
