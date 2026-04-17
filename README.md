@@ -4,7 +4,8 @@
 
 ## 文档
 
-脚手架与分阶段教程仍在 Sky-Chat 仓库内：`docs/Azero-shot-learn/README.md`（路径与 `D:\AAAagent\SakuraChat` 并列的 `Sky-Chat` 项目里；教程目录名未改，避免牵动 Sky-Chat 内大量引用）。
+- **交接说明（给 Agent / 协作者）**：[docs/AGENT-HANDOFF.md](docs/AGENT-HANDOFF.md)
+- **分阶段手敲教程**（在参考仓库 Sky-Chat 内）：`Sky-Chat/docs/Azero-shot-learn/README.md`（与本仓库并列；从 **`03-第一阶段-创建Next脚手架`** 开始跟做；教程目录名 `Azero-shot-learn` 仅表示教程合集，与本仓库名 **SakuraChat** 不同属正常）
 
 ## 本地开发（待你按教程创建 Next 应用后）
 
